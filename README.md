@@ -25,7 +25,7 @@ Wenn du deine eigene Domain verwenden möchtest:
  
 Wenn du die Standarddoamin der GitHub-Seite verwenden willst, Wie etwas wie: `https://<Benutzername>.github.io/<Repo-Name>/`
  1. Löschen Sie die CNAME-Datei.
- 2. Ändere `**var PATH_SEGMENTS_TO_SKIP = 0;` bei 404.html zu `var PATH_SEGMENTS_TO_SKIP = 1;`.
+ 2. Ändere `var PATH_SEGMENTS_TO_SKIP = 0;` bei 404.html zu `var PATH_SEGMENTS_TO_SKIP = 1;`.
    (Dies liegt daran, dass GitHub-Domains nach dem Hostnamen ein zusätzliches Pfadsegment (den Reponamen) haben.)
 
 # Erstelle ein neues Repo als Datenbank. (oder du kannst dein Geforktes Repo verwenden)
