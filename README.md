@@ -4,7 +4,7 @@ Es ist ein URL Shortener also z.B https://subdomain.deinelangedomain.de/deinelan
 
 
 # Demo
-url.m16k.de/1 sollte zu diesen Repo leiten
+https://url.m16k.de/1 sollte zu diesen Repo leiten
 
 1. Füge zum Hinzufügen eines neuen Kurzlinks ein "Issues" hinzu, wobei der Titel der Link ist, den du kürzen möchtest (mit http(s)://) zu https://github.com/MaximilianGT500/URls/issues.
 2.Du kannst nun mit der Issues-ID zugreifen mit url.m16k.de/{Issues-ID}
