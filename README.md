@@ -1,6 +1,6 @@
 # URL Shortener
 # Was ist es?
-Es ist ein URL Shortener also z.B subdomain.deinelangedomain.de/deinelangeurl2343542435325342542 zu z.B https://url.m16k.de/1
+Es ist ein URL Shortener also z.B https://subdomain.deinelangedomain.de/deinelangeurl2343542435325342542 zu z.B https://url.m16k.de/1
 
 
 # Demo
