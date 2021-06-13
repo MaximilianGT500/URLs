@@ -1,11 +1,11 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="URL_Shortener_0"></a>URL Shortener</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="3">Was ist es?<br>
-Es ist ein URL Shortener also z.B <a href="https://subdomain.deinelangedomain.de/de523465764876585868658568658658">https://subdomain.deinelangedomain.de/de523465764876585868658568658658</a> zu z.B <a href="https://url.m16k.de/1">https://url.m16k.de/1</a></p>
+Es ist ein URL Shortener also z.B <a href="https://subdomain.deinelangedomain.de/de523465764876585868658568658658">https://subdomain.deinelangedomain.de/de523465764876585868658568658658</a> zu z.B <a href="https://url.m16k.de/1">https://maximiliangt500.github.io/URLs/1</a></p>
 <h1 class="code-line" data-line-start=5 data-line-end=6 ><a id="Demo_5"></a>Demo</h1>
-<p class="has-line-data" data-line-start="6" data-line-end="7"><a href="https://url.m16k.de/1">https://url.m16k.de/1</a> sollte zu diesen Repo leiten</p>
+<p class="has-line-data" data-line-start="6" data-line-end="7"><a href="https://url.m16k.de/1">https://maximiliangt500.github.io/URLs/1</a> sollte zu diesen Repo leiten</p>
 <ol>
 <li class="has-line-data" data-line-start="8" data-line-end="10">Füge zum Hinzufügen eines neuen Kurzlinks ein “Issues” hinzu, wobei der Titel der Link ist, den du kürzen möchtest (mit http(s)://) zu <a href="https://github.com/MaximilianGT500/URls-db/issues">https://github.com/MaximilianGT500/URls-db/issues</a>.<br>
-2.Du kannst nun mit der Issues-ID zugreifen mit <a href="http://url.m16k.de/%7BIssues-ID%7D">url.m16k.de/{Issues-ID}</a></li>
+2.Du kannst nun mit der Issues-ID zugreifen mit <a href="http://url.m16k.de/%7BIssues-ID%7D">https://maximiliangt500.github.io/URLs/{Issues-ID}</a></li>
 </ol>
 <h1 class="code-line" data-line-start=12 data-line-end=13 ><a id="Und_wie_kann_ich_es_mit_meine_Domain_benutzen_12"></a>Und wie kann ich es mit meine Domain benutzen?</h1>
 <p class="has-line-data" data-line-start="13" data-line-end="14"><strong>WARNUNG: Diese Methode zum Erstellen eines URL-Shorteners ist hackig und nicht als zuverlässig gedacht.</strong></p>
